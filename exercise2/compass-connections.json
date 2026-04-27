@@ -1,0 +1,41 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "8d1a2c42-e519-4b52-a280-4bacfd4c9f85",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1776942945178"
+        }
+      },
+      "favorite": {
+        "name": "school"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {}
+      }
+    },
+    {
+      "id": "ee6f83ff-6cd0-4764-9c17-5d6274404ceb",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1777314309809"
+        }
+      },
+      "favorite": {
+        "name": "dugsiiye-projects",
+        "color": "color3"
+      },
+      "savedConnectionType": "favorite",
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {}
+      }
+    }
+  ]
+}
